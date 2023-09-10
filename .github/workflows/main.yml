@@ -1,5 +1,5 @@
 name: Deploy 
- 
+# name of the actions 
 on: 
   push: 
     branches: [ main ] 
